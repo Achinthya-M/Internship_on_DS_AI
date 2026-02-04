@@ -28,7 +28,7 @@ else:
 name = input("Enter your name: ")
 print("Hello,"+ name + "!")
 
-# #fstring
+#fstring
 age = input("Enter your age: ")
 print(f"My age is, {age}!")
 
@@ -37,19 +37,19 @@ name = input("Enter your name: ")
 age = int(input("Enter your current age: "))
 print(f"Hey {name}, you will be {age+4} years old in 2030!")
 
-#task2
-total_bill = float(input("Enter total bill amount: "))
-people = int(input("Enter number of people: "))
-share_per_person = total_bill / people
-print(f"Total Bill: {total_bill}. Each person pays: {share_per_person}")
+#task 2
+total_bill = float(input("Enter total bill amount:"))
+people = int(input("Enter number of people:"))
+split_bill = total_bill / people
+print("Each person should pay:", split_bill)
 print(type(total_bill))
 print(type(people))
-print(type(share_per_person))
+print(type(split_bill))
 
 #task 3
 item_name=str(input("enter the item name:"))
 item_price=int(input("enter the item price:"))
-item_qut=int(input("enter the Qty:"))
+item_qut=int(input("enter the quantity:"))
 price=item_price*item_qut
 in_stock=True
 print(f"Item:{item_name}, Price:{item_price}, Qty:{item_qut},Total Price:{price},Available:{in_stock}")
