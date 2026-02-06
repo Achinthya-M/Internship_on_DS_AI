@@ -45,6 +45,18 @@
 -Repeated input with exit condition
 -Greeting program with loop
 
+# Day 5 – Functions & Modular Programming
+# Tasks Completed
+- Learned how to define and call functions in Python.
+- Practiced passing arguments and returning values from functions.
+- Implemented reusable logic by separating code into multiple Python files.
+- Created utility functions in separate modules and imported them where required.
+- Organized the program structure using files such as `main.py`, `math_operations.py`, and `utils.py`.
+# Outcome
+- Understood the importance of modular programming for clean and maintainable code.
+- Improved code reusability and readability by separating logic into functions and modules.
+- Gained practical experience in building multi-file Python programs.
+
 # Technologies Used
 -Python
 -Git
