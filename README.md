@@ -57,6 +57,28 @@
 - Improved code reusability and readability by separating logic into functions and modules.
 - Gained practical experience in building multi-file Python programs.
 
+# Day 6 – Functions & Custom Modules
+# Tasks Completed
+- Implemented a program to calculate area and perimeter of geometric shapes using functions and return values.
+- Practiced defining reusable functions and calling them with appropriate arguments.
+- Created a custom logic module to organize commonly used functions.
+- Imported and reused functions from the custom module in other Python files.
+# Outcome
+- Gained a strong understanding of functions, parameters, and return values.
+- Learned how modular programming improves code reusability and readability.
+- Built practical experience in creating and using custom Python modules.
+
+# Day 7 – File Handling (Text, CSV & Excel)
+# Tasks Completed
+- Practiced reading from and writing to text files using Python.
+- Worked with CSV files to store and retrieve structured data.
+- Read and processed data from Excel (`.xlsx`) files.
+- Implemented file handling programs using multiple file formats.
+# Outcome
+- Gained hands-on experience with Python file I/O operations.
+- Learned to handle different data formats commonly used in real-world applications.
+- Improved confidence in managing external data sources using Python.
+
 # Technologies Used
 -Python
 -Git
