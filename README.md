@@ -79,6 +79,19 @@
 - Learned to handle different data formats commonly used in real-world applications.
 - Improved confidence in managing external data sources using Python.
 
+# Day 8 – NumPy & Numerical Computing
+# Tasks Completed
+-Created NumPy arrays and worked with multi-dimensional data
+-Applied broadcasting and vectorization for efficient computations
+-Normalized datasets using axis-based statistical operations
+-Reshaped and transposed arrays to prepare ML-ready data
+-Performed matrix operations such as dot products
+# Outcome
+-Understood NumPy broadcasting and vectorization concepts
+-Learned how array reshaping is used in machine learning models
+-Gained practical experience with numerical and linear algebra operations
+-Improved efficiency in handling large numerical datasets
+
 # Technologies Used
 -Python
 -Git
