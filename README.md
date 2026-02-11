@@ -92,6 +92,17 @@
 -Gained practical experience with numerical and linear algebra operations
 -Improved efficiency in handling large numerical datasets
 
+# Day 9 – Pandas Series
+# Tasks Completed
+-Created a product price catalog using Series and indexing.
+-Detected missing values, filled them, and filtered grades using boolean masking.
+-Cleaned usernames using vectorized string methods (strip(), lower(), contains()).
+# Outcome
+-Learned label-based and positional indexing
+-Applied boolean filtering techniques
+-Managed missing data using .isnull() and .fillna()
+-Used vectorized string operations for text processing
+
 # Technologies Used
 -Python
 -Git
