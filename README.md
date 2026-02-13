@@ -116,6 +116,19 @@
 -Strengthened practical understanding of data preprocessing
 -Built confidence in handling messy datasets
 
+# Day 11 - Data Visualization
+# Tasks Completed
+-Created line plots using Matplotlib
+-Built scatter plots for relationship analysis
+-Designed bar charts for categorical comparisons
+-Customized plots using titles, labels, legends, and grids
+-Implemented subplots for multiple visualizations in one figure
+# Outcome
+-Visualized trends and patterns effectively
+-Analyzed relationships between variables
+-Improved presentation of data insights
+-Gained hands-on experience in creating professional data visualizations
+
 # Technologies Used
 -Python
 -Git
