@@ -103,6 +103,19 @@
 -Managed missing data using .isnull() and .fillna()
 -Used vectorized string operations for text processing
 
+# Day 10 – Data Cleaning
+# Tasks Completed
+-Identified and handled missing values in datasets
+-Detected and removed duplicate records
+-Performed data type conversion using .astype() and pd.to_numeric()
+-Cleaned and standardized categorical string data
+-Validated dataset consistency after cleaning
+# Outcome
+-Learned to prepare real-world datasets for analysis
+-Improved data integrity through validation techniques
+-Strengthened practical understanding of data preprocessing
+-Built confidence in handling messy datasets
+
 # Technologies Used
 -Python
 -Git
