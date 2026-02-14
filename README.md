@@ -129,6 +129,21 @@
 -Improved presentation of data insights
 -Gained hands-on experience in creating professional data visualizations
 
+# Day 12 – Dashboard Development
+# Tasks Completed
+-Developed an interactive data dashboard using Python
+-Integrated multiple visualizations into a single interface
+-Loaded and processed datasets for analysis
+-Applied data cleaning before visualization
+-Organized code using modular files (day12fundamentals.py, dashboard.py)
+-Structured charts for clear insight presentation
+# Outcome
+-Learned how to combine data analysis and visualization in one project
+-Strengthened dashboard-building and presentation skills
+-Improved ability to transform raw data into meaningful insights
+-Gained hands-on experience with real-world analytical workflows
+-Enhanced understanding of modular project structure
+
 # Technologies Used
 -Python
 -Git
