@@ -144,6 +144,22 @@
 -Gained hands-on experience with real-world analytical workflows
 -Enhanced understanding of modular project structure
 
+# Day 13 – Exploratory Data Analysis (EDA)
+# Tasks Completed
+-Performed Exploratory Data Analysis on structured datasets
+-Conducted univariate analysis to understand feature distributions
+-Applied bivariate analysis to examine relationships between variables
+-Calculated correlation between numerical features
+-Identified and analyzed outliers using statistical methods
+-Visualized distributions and relationships using plots
+# Outcome
+-Gained a strong understanding of the EDA workflow
+-Learned how to interpret data distributions effectively
+-Identified relationships and patterns between variables
+-Detected multicollinearity using correlation analysis
+-Improved ability to recognize and handle outliers
+-Strengthened analytical thinking before model development
+
 # Technologies Used
 -Python
 -Git
