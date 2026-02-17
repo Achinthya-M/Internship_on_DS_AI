@@ -160,6 +160,19 @@
 -Improved ability to recognize and handle outliers
 -Strengthened analytical thinking before model development
 
+# Day 14 – Feature Engineering
+# Tasks Completed
+-Applied Label Encoding and One-Hot Encoding
+-Implemented feature scaling techniques
+-Generated polynomial features
+-Prepared optimized datasets for modeling
+-Evaluated transformation impact on performance
+# Outcome
+-Learned importance of feature preparation in ML
+-Improved dataset optimization skills
+-Understood how transformations affect model accuracy
+-Strengthened readiness for machine learning model building
+
 # Technologies Used
 -Python
 -Git
