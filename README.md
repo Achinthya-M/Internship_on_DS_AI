@@ -173,6 +173,21 @@
 -Understood how transformations affect model accuracy
 -Strengthened readiness for machine learning model building
 
+# Day 15 – Statistics: Probability
+# Tasks Completed
+-Studied fundamental concepts of probability theory
+-Calculated probability of events using basic formulas
+-Worked with conditional probability concepts
+-Applied Bayes’ Theorem for updating probabilities
+-Explored discrete probability distributions
+-Implemented probability calculations using Python
+# Outcome
+-Developed strong foundational understanding of probability
+-Learned how to compute and interpret event likelihoods
+-Understood conditional probability and real-world applications
+-Applied Bayes’ Theorem for decision-making scenarios
+-Strengthened statistical reasoning skills for machine learning
+
 # Technologies Used
 -Python
 -Git
