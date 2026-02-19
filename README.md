@@ -188,6 +188,21 @@
 -Applied Bayes’ Theorem for decision-making scenarios
 -Strengthened statistical reasoning skills for machine learning
 
+# Day 16 – Hypothesis Testing & Statistical Inference
+# Tasks Completed
+-Studied the fundamentals of hypothesis testing
+-Formulated null and alternative hypotheses
+-Calculated test statistics (Z-test / T-test concepts)
+-Computed p-values and interpreted results
+-Understood significance levels (α) and decision criteria
+-Applied statistical inference techniques using Python
+# Outcome
+-Developed clear understanding of hypothesis testing workflow
+-Learned how to make data-driven decisions using statistical evidence
+-Interpreted p-values and significance levels correctly
+-Strengthened foundation in statistical inference for machine learning
+-Improved analytical reasoning and result validation skills
+
 # Technologies Used
 -Python
 -Git
