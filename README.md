@@ -203,6 +203,20 @@
 -Strengthened foundation in statistical inference for machine learning
 -Improved analytical reasoning and result validation skills
 
+# Day 17 – SQLite Database Architect
+# Tasks Completed
+-Created a local SQLite database named internship.db
+-Designed and created a table interns with columns: id, name, track, and stipend
+-Inserted multiple sample records into the table
+-Executed SELECT queries to retrieve specific columns (name, track)
+-Practiced the difference between SELECT * and selecting specific fields
+# Outcome
+-Gained practical understanding of database creation using SQLite
+-Learned how to design structured tables with appropriate columns
+-Improved skills in writing efficient SELECT queries
+-Understood the importance of retrieving only required data
+-Built foundational knowledge for working with relational databases
+
 # Technologies Used
 -Python
 -Git
