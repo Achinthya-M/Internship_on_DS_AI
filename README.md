@@ -217,6 +217,18 @@
 -Understood the importance of retrieving only required data
 -Built foundational knowledge for working with relational databases
 
+# Day 18 – SQL for Data Science
+# Tasks Completed
+1.The Insight Filter (WHERE & GROUP BY)
+-Created and managed a SQLite database using the command line.
+-Applied the WHERE clause to filter specific records.
+-Used GROUP BY with aggregation functions like AVG() and COUNT() to summarize data at the database level.
+2️.The Data Connector (JOINs & Python Integration)
+-Created a second table (mentors) to normalize database structure.
+-Performed an INNER JOIN to combine related data from multiple tables.
+-Integrated SQLite with Python using the sqlite3 library.
+-Loaded SQL query results into a Pandas DataFrame for analysis.
+
 # Technologies Used
 -Python
 -Git
