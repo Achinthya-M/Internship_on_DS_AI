@@ -229,6 +229,20 @@
 -Integrated SQLite with Python using the sqlite3 library.
 -Loaded SQL query results into a Pandas DataFrame for analysis.
 
+# Day 19 - Git Advanced
+# Tasks Completed
+-Created and switched to a new feature branch (feature-viz).
+-Added and committed a new file (plots.py) in the feature branch.
+-Switched between branches to observe branch isolation.
+-Modified the same file in different branches to intentionally create a merge conflict.
+-Identified and manually resolved the merge conflict.
+-Successfully completed the merge and updated the repository.
+# Outcomes
+-Gained practical understanding of feature branch workflow.
+-Learned how branch isolation protects the main codebase.
+-Developed confidence in identifying and resolving merge conflicts.
+-Understood the complete workflow of branching, committing, merging, and pushing changes in Git.
+
 # Technologies Used
 -Python
 -Git
