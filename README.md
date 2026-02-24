@@ -243,6 +243,8 @@
 -Developed confidence in identifying and resolving merge conflicts.
 -Understood the complete workflow of branching, committing, merging, and pushing changes in Git.
 
+# ay 20 - Mini Project - EDA 
+
 # Technologies Used
 -Python
 -Git
