@@ -1,0 +1,122 @@
+\documentclass[12pt]{article}
+
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{xcolor}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{times}   % Times font for pdfLaTeX
+
+\onehalfspacing
+
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+
+\title{\textbf{Mini Project 1: Exploratory Data Analysis (EDA)}}
+\author{Achinthya M \\ Data Science \& AI Internship}
+\date{}
+
+\begin{document}
+	
+	\maketitle
+	\thispagestyle{empty}
+	
+	\tableofcontents
+	\newpage
+	
+	% --------------------------------------------------
+	\section{Introduction}
+	
+	This mini project focuses on performing Exploratory Data Analysis (EDA) on a real-world dataset. The objective was to understand the structure of the dataset, clean missing values, visualize patterns, and extract meaningful insights.
+	
+	The dataset analyzed in this project is \textbf{customer\_analytics.csv}, where each row represents an individual customer with demographic and behavioral attributes.
+	
+	% --------------------------------------------------
+	\section{Project Structure}
+	
+	The project follows the directory layout below:
+	
+	\begin{flushleft}
+		\texttt{
+			MiniProject1/\\
+			\quad data/\\
+			\quad\quad customer\_analytics.csv\\
+			\quad\quad customer\_analytics\_cleaned.csv\\
+			\quad notebooks/\\
+			\quad\quad MiniProject1\_EDA.ipynb\\
+			\quad reports/\\
+			\quad\quad MiniProject1\_Documentation.tex\\
+			\quad README.md\\
+			\quad requirements.txt
+		}
+	\end{flushleft}
+	
+	% --------------------------------------------------
+	\section{Files Description}
+	
+	\begin{itemize}[leftmargin=1.5cm]
+		\item \textbf{customer\_analytics.csv} – Original dataset.
+		\item \textbf{customer\_analytics\_cleaned.csv} – Cleaned dataset after preprocessing.
+		\item \textbf{MiniProject1\_EDA.ipynb} – Notebook containing the complete EDA workflow.
+		\item \textbf{README.md} – Project overview and instructions.
+		\item \textbf{requirements.txt} – Required Python libraries.
+	\end{itemize}
+	
+	% --------------------------------------------------
+	\section{Phase 1: Data Inspection}
+	
+	The dataset was loaded using Pandas. Initial inspection was performed using:
+	
+	\begin{itemize}[leftmargin=1.5cm]
+		\item \texttt{df.head()}
+		\item \texttt{df.info()}
+		\item \texttt{df.describe()}
+	\end{itemize}
+	
+	This helped identify the structure, data types, and presence of missing values.
+	
+	% --------------------------------------------------
+	\section{Phase 2: Data Cleaning and Preprocessing}
+	
+	Missing numerical values were filled using the median of each column to reduce the impact of outliers. Duplicate records were identified and removed to maintain data integrity.
+	
+	The cleaned dataset was saved as:
+	
+	\texttt{customer\_analytics\_cleaned.csv}
+	
+	% --------------------------------------------------
+	\section{Phase 3: Univariate and Bivariate Analysis}
+	
+	Histograms and boxplots were created to understand variable distributions and detect outliers. Scatter plots were used to study relationships between variables such as age and income.
+	
+	% --------------------------------------------------
+	\section{Phase 4: Correlation Analysis}
+	
+	A correlation matrix was generated using \texttt{df.corr()} and visualized using a heatmap to identify strong relationships between numerical features.
+	
+	% --------------------------------------------------
+	\section{Key Insights}
+	
+	\begin{enumerate}[leftmargin=1.5cm]
+		\item Moderate correlations were observed between certain numerical variables.
+		\item Missing values required careful handling to avoid bias.
+		\item Outliers were identified in selected numerical columns.
+	\end{enumerate}
+	
+	% --------------------------------------------------
+	\section{Conclusion}
+	
+	This project successfully implemented a structured EDA workflow. The dataset was inspected, cleaned, visualized, and analyzed systematically to extract meaningful insights.
+	
+	The final outputs include:
+	\begin{itemize}[leftmargin=1.5cm]
+		\item Cleaned dataset
+		\item Jupyter Notebook with complete analysis
+		\item Technical documentation report
+	\end{itemize}
+	
+\end{document}

@@ -2,3 +2,18 @@ __pycache__/
 *.csv
 src/day1_check.py
 *.xlsx
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
