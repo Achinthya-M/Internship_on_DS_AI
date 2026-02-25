@@ -243,17 +243,49 @@
 -Developed confidence in identifying and resolving merge conflicts.
 -Understood the complete workflow of branching, committing, merging, and pushing changes in Git.
 
-# ay 20 - Mini Project - EDA 
+# Day 20 – Mini Project 1: Exploratory Data Analysis
+# Tasks Completed
+-Performed full EDA on real dataset
+-Data inspection using .head(), .info(), .describe()
+-Missing value handling and duplicate removal
+-Univariate & bivariate analysis
+-Correlation heatmap
+-Generated structured project documentation
+# Outcome
+-Applied complete EDA workflow independently
+-Improved data storytelling skills
+-Strengthened real-world data cleaning ability
+
+# Day 21 – Introduction to Machine Learning
+# Tasks Completed
+-Studied traditional programming vs Machine Learning
+-Understood Supervised, Unsupervised, and Reinforcement Learning
+-Identified Regression vs Classification problems
+-Loaded Tehran House dataset
+-Separated Features (X) and Label (y)
+-Performed Train-Test Split using Scikit-Learn
+# Outcome
+-Understood ML problem types
+-Learned importance of model evaluation
+-Built foundation for ML model implementation
 
 # Technologies Used
 -Python
+-NumPy
+-Pandas
+-Matplotlib
+-Seaborn
+-Scikit-Learn
+-SQLite
 -Git
 -GitHub
 # Learning Outcomes
--Learned how to manage repositories using GitHub
--Gained hands-on practice with Python fundamentals
--Improved understanding of data types and input handling
--Learned Python data structures and control flow
+-Developed strong Python programming skills
+-Gained practical data analysis experience
+-Learned database integration
+-Built statistical foundation for ML
+-Understood complete ML workflow preparation
+-Strengthened version control skills
 
 👤 Author
 Achinthya M
