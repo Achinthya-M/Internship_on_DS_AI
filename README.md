@@ -269,6 +269,36 @@
 -Learned importance of model evaluation
 -Built foundation for ML model implementation
 
+# Day 22–25 – Project Brainstorming (Education Sector)
+# Tasks Completed
+-Reviewed the project problem statement related to the education sector
+-Brainstormed multiple project ideas focusing on improving educational outcomes using data analysis
+-Explored possible datasets related to student performance, attendance, and academic results
+-Identified potential input features and target variables for predictive modeling
+-Discussed suitable machine learning approaches for solving the identified problem
+-Outlined the initial workflow for data preprocessing, analysis, and model development
+# Outcomes
+-Gained a clear understanding of the project objective and scope
+-Identified key factors that influence student performance in educational datasets
+-Developed a structured plan for implementing the project
+-Improved analytical thinking and problem-solving skills during the brainstorming process
+-Prepared a roadmap for the next phase of project implementation
+
+# Day 26 – Linear Regression
+# Tasks Completed
+-Studied the concept of Linear Regression for predictive modeling
+-Understood the relationship between independent variables and a continuous target variable
+-Explored the mathematical idea of the best-fit line in regression
+-Implemented a simple Linear Regression model using Python and machine learning libraries
+-Trained the model using sample dataset values
+-Used the trained model to make predictions on new data
+# Outcome
+-Gained a strong understanding of how Linear Regression works
+-Learned how machine learning models identify relationships between variables
+-Developed practical experience in building and training a regression model
+-Improved understanding of prediction techniques in supervised learning
+-Strengthened foundational knowledge required for advanced machine learning algorithms
+
 # Technologies Used
 -Python
 -NumPy
