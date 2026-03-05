@@ -269,7 +269,7 @@
 -Learned importance of model evaluation
 -Built foundation for ML model implementation
 
-# Day 22–25 – Project Brainstorming (Education Sector)
+# Day 22–26 – Project Brainstorming (Education Sector)
 # Tasks Completed
 -Reviewed the project problem statement related to the education sector
 -Brainstormed multiple project ideas focusing on improving educational outcomes using data analysis
@@ -284,20 +284,34 @@
 -Improved analytical thinking and problem-solving skills during the brainstorming process
 -Prepared a roadmap for the next phase of project implementation
 
-# Day 26 – Linear Regression
+# Day 27 – Linear Regression
+#vTasks Completed
+Studied the fundamentals of Linear Regression in machine learning
+Understood the relationship between independent variables and a continuous target variable
+Learned how a best-fit line is used to model relationships in data
+Implemented Linear Regression using Python and machine learning libraries
+Trained the model using sample datasets
+Used the trained model to predict values for new input data
+# Outcomes
+Developed a clear understanding of regression-based prediction models
+Learned how machine learning algorithms identify patterns in numerical data
+Gained hands-on experience building and training a Linear Regression model
+Improved understanding of supervised learning techniques
+Strengthened foundational knowledge required for advanced ML algorithms
+
+# Day 28 – Multiple Linear Regression
 # Tasks Completed
--Studied the concept of Linear Regression for predictive modeling
--Understood the relationship between independent variables and a continuous target variable
--Explored the mathematical idea of the best-fit line in regression
--Implemented a simple Linear Regression model using Python and machine learning libraries
--Trained the model using sample dataset values
--Used the trained model to make predictions on new data
-# Outcome
--Gained a strong understanding of how Linear Regression works
--Learned how machine learning models identify relationships between variables
--Developed practical experience in building and training a regression model
--Improved understanding of prediction techniques in supervised learning
--Strengthened foundational knowledge required for advanced machine learning algorithms
+Studied the concept of Multiple Linear Regression
+Learned how multiple independent variables influence a single target variable
+Implemented a Multiple Linear Regression model using Python
+Trained the model with datasets containing multiple features
+Used the model to make predictions based on multiple inputs
+# Outcomes
+Gained a deeper understanding of regression models with multiple features
+Learned how multiple factors can affect prediction outcomes
+Improved skills in building and evaluating machine learning models
+Strengthened understanding of real-world predictive modeling problems
+Built a foundation for more advanced machine learning algorithms
 
 # Technologies Used
 -Python
