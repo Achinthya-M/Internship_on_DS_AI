@@ -501,7 +501,8 @@ Successfully completed internship project
 Gained full ML lifecycle experience
 
 # Placement Predictor (Flask API)
-# Description: A machine learning-based system that predicts student placement outcomes based on academic and skill-based features. The model is deployed using a Flask API for real-time predictions.
+# Description: 
+A machine learning-based system that predicts student placement outcomes based on academic and skill-based features. The model is deployed using a Flask API for real-time predictions.
 # Features
 Predict placement probability
 REST API using Flask
