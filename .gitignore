@@ -16,4 +16,5 @@ __pycache__/
 *.pyc
 
 # Database
-*.db
+*.db*.zip
+*.rar
